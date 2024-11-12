@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mr-ilyas-007
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Laravel Development
 - 💞️ I’m looking to collaborate with companies who requires web developers
 - 📫 you can contact me- skilyasofficial28@gmail.com
 - 😄 Pronouns: ...
